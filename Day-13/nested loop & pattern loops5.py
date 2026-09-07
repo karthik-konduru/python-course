@@ -1,4 +1,4 @@
-#printing zeros and ones.
+#printing zeros and ones
 n=int(input())
 for i in range(n):
     for j in range(n):
