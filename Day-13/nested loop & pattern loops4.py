@@ -1,4 +1,4 @@
-#printing serial numbers.
+#printing serial numbers
 n=int(input())
 c=1
 for i in range(1,n+1):
