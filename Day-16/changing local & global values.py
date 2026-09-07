@@ -1,4 +1,4 @@
-#build-in functions
+#build-in functions.
 #changing global value.
 x=20
 def f2():
