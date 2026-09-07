@@ -1,4 +1,4 @@
-#printing odd & even number.
+#printing odd & even number
 n=int(input())
 even=2
 odd=1
