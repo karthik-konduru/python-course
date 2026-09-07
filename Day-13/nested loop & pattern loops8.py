@@ -1,4 +1,4 @@
-#printing opposite right angle.
+#printing opposite right angle
 n=int(input())
 for r in range(n):
     for c in range(n):
